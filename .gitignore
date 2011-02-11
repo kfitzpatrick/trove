@@ -1,4 +1,13 @@
-*.gem
 .bundle
-Gemfile.lock
-pkg/*
+db/*.sqlite3
+log/*.log
+tmp/**/*
+.DS_Store
+.idea
+junk*
+log/*.pid
+solr/data
+log/sunspot-solr-development.log.*
+log/sunspot-solr-test.log.lck
+public/system
+dump.rdb
