@@ -1,6 +1,1 @@
-module Trove
-  # Your code goes here...
-  class Client
-
-  end
-end
+require 'trove/client'
